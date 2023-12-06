@@ -1,1 +1,1 @@
-# .github
+# Neuromorphic Artificial Intelligence Lab
