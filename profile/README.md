@@ -22,4 +22,4 @@ The key research areas in the lab are
 5. Emerging Technologies
 6. Edge Computing Applications
 
-Students interested in the NUAI Lab should first read through the lab research areas available on the [NuAI lab website](https://www.nuailab.com/index.html#) prior to contacting [Dr. Kudithipudi](dk@utsa.edu) by email.
+Candidates interested in the NUAI Lab should first read through the lab research areas available on the [NuAI lab website](https://www.nuailab.com/index.html#) prior to contacting [Dr. Kudithipudi](dk@utsa.edu) by email.
